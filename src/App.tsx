@@ -335,12 +335,10 @@ const Footer = () => (
   </footer>
 );
 
-import { FacebookPixel } from './components/FacebookPixel';
 
 export default function App() {
   return (
     <div className="min-h-screen">
-      <FacebookPixel />
       <Navbar />
       <main>
         <Hero />
