@@ -50,7 +50,7 @@ const Hero = () => (
           Exclusivo para Corretores de Imóveis
         </div>
         <h1 className="text-5xl md:text-7xl font-extrabold text-slate-900 leading-[1.1] mb-6">
-          Crie fluxos de captura que convertem <span className="gradient-text">3x mais</span>
+          Crie formulários personalizados de captação de leads de <span className="gradient-text">alta conversão</span>
         </h1>
         <p className="text-xl text-slate-600 mb-8 leading-relaxed max-w-xl">
           Saia do zero ao seu primeiro lead em menos de 5 minutos. O Lead Form é a ferramenta definitiva para transformar visitantes em clientes reais.
